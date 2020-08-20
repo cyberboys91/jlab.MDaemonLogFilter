@@ -1,0 +1,41 @@
+Wed 2018-04-25 00:00:35: ----------
+Wed 2018-04-25 00:00:34: Session 740472; child 0001
+Wed 2018-04-25 00:00:34: Accepting SMTP connection from [191.96.249.63:1124] to [192.168.12.2:25]
+Wed 2018-04-25 00:00:34: --> 220 mail.gobart.gob.cu ESMTP MDaemon 13.5.1; Wed, 25 Apr 2018 00:00:34 -0500
+Wed 2018-04-25 00:00:34: <-- HELO 190.6.83.84
+Wed 2018-04-25 00:00:34: --> 250 mail.gobart.gob.cu Hello 190.6.83.84, pleased to meet you
+Wed 2018-04-25 00:00:35: <-- MAIL FROM: <noqfsjziixwc@hotmail.com>
+Wed 2018-04-25 00:00:35: --> 550 mail.gobart.gob.cu does not accept mail from 190.6.83.84
+Wed 2018-04-25 00:00:35: SMTP session terminated (Bytes in/out: 57/203)
+Wed 2018-04-25 00:00:35: ----------
+
+***********************************
+
+Wed 2018-04-25 10:24:46: ----------
+Wed 2018-04-25 10:24:18: Session 747074; child 0002
+Wed 2018-04-25 10:24:18: Accepting SMTP connection from [191.96.249.63:50817] to [192.168.12.2:25]
+Wed 2018-04-25 10:24:18: --> 220 mail.gobart.gob.cu ESMTP MDaemon 13.5.1; Wed, 25 Apr 2018 10:24:18 -0500
+Wed 2018-04-25 10:24:18: <-- EHLO [192.168.13.15]
+Wed 2018-04-25 10:24:18: --> 250-mail.gobart.gob.cu Hello [192.168.13.15], pleased to meet you
+Wed 2018-04-25 10:24:18: --> 250-ETRN
+Wed 2018-04-25 10:24:18: --> 250-AUTH LOGIN CRAM-MD5 PLAIN
+Wed 2018-04-25 10:24:18: --> 250-8BITMIME
+Wed 2018-04-25 10:24:18: --> 250-STARTTLS
+Wed 2018-04-25 10:24:18: --> 250 SIZE 4096000
+Wed 2018-04-25 10:24:19: <-- MAIL From:<uacalquizar@aq.gobart.gob.cu> SIZE=604779
+Wed 2018-04-25 10:24:19: --> 250 <uacalquizar@aq.gobart.gob.cu>, Sender ok
+Wed 2018-04-25 10:24:19: <-- RCPT To:<correa@dpjgt.minjus.gob.cu>
+Wed 2018-04-25 10:24:19: --> 250 <correa@dpjgt.minjus.gob.cu>, Recipient ok
+Wed 2018-04-25 10:24:19: <-- DATA
+Wed 2018-04-25 10:24:19: Creating temp file (SMTP): d:\mdaemon\queues\temp\md50000059753.tmp
+Wed 2018-04-25 10:24:19: --> 354 Enter mail, end with <CRLF>.<CRLF>
+Wed 2018-04-25 10:24:47: Message size: 604781 bytes
+Wed 2018-04-25 10:24:47: Message creation successful: d:\mdaemon\queues\inbound\md50000912121.msg
+Wed 2018-04-25 10:24:47: --> 250 Ok, message saved <Message-ID: <5ADFF393.000003.02348@YEINIEL-PC>>
+Wed 2018-04-25 10:24:47: <-- QUIT
+Wed 2018-04-25 10:24:47: --> 221 See ya in cyberspace
+Wed 2018-04-25 10:24:47: SMTP session successful (Bytes in/out: 604910/465)
+Wed 2018-04-25 10:24:47: ----------
+
+***********************************
+

@@ -1,0 +1,6 @@
+c:\users\javier\documents\visual studio 2015\Projects\MDaemonLogFilter\MDaemonLogFilter\bin\Debug\MDaemonLogFilter.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\MDaemonLogFilter\MDaemonLogFilter\bin\Debug\MDaemonLogFilter.exe
+c:\users\javier\documents\visual studio 2015\Projects\MDaemonLogFilter\MDaemonLogFilter\bin\Debug\MDaemonLogFilter.pdb
+c:\users\javier\documents\visual studio 2015\Projects\MDaemonLogFilter\MDaemonLogFilter\obj\Debug\MDaemonLogFilter.exe
+c:\users\javier\documents\visual studio 2015\Projects\MDaemonLogFilter\MDaemonLogFilter\obj\Debug\MDaemonLogFilter.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\MDaemonLogFilter\MDaemonLogFilter\obj\Debug\MDaemonLogFilter.csprojAssemblyReference.cache
